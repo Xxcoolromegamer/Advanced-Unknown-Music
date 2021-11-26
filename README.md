@@ -56,7 +56,7 @@
   
 ***
 
-## [Discord Server 😎](https://discord.gg/Y4U3SxegER) | [Website](https://milrato.dev)
+## [Discord Server 😎](https://discord.gg/V8yNdMDzX7) | [Support Server](https://discord.gg/Y4U3SxegER)
 <a href="https://discord.gg/Y4U3SxegER"><img src="https://cdn.discordapp.com/attachments/900781241832443977/913831956351959110/channels4_profile.jpg?style=banner2"></a>
 
 ***
