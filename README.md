@@ -4,7 +4,7 @@
 ***
 
 
-### [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+### [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/Y4U3SxegER)
 
 #### > 🦾 [Replit Hosting Tutorial](https://www.youtube.com/watch?v=Mv4QbxSv59M)
 
@@ -14,7 +14,7 @@
 
 ## Installation Guide (Hosting)
 
-> 🖖 [**Repl.it Fork**](https://replit.com/@OxyTomato/Musicium)
+> 🖖 [**Repl.it Fork**](https://replit.com/@tongko/Unknown-Leaf-Music)
 
 <br/>
 - have **node.js v16.6 or higher**
@@ -56,12 +56,12 @@
   
 ***
 
-## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/milrato"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+## [Discord Server 😎](https://discord.gg/Y4U3SxegER) | [Website](https://milrato.dev)
+<a href="https://discord.gg/Y4U3SxegER"><img src="https://cdn.discordapp.com/attachments/900781241832443977/913831956351959110/channels4_profile.jpg?style=banner2"></a>
 
 ***
 
-## SUPPORT ME AND MILRATO DEVELOPMENT
+## SUPPORT ME AND Unknwon LEAF MUSIC DEVELOPMENT
 
 > You can always Support me by inviting one of my **own Discord Bots**
 
